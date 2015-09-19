@@ -1,4 +1,4 @@
-<a href="http://localhost/portfolio/wp-content/uploads/2015/09/vb_cv2.pdf" target="_blank">Télécharger au format PDF <span class="glyphicon glyphicon-file" aria-hidden="true"></span></a>
+<a href="http://vblancheton.fr/wp-content/uploads/2015/09/vb_cv2.pdf" target="_blank">Télécharger au format PDF <span class="glyphicon glyphicon-file" aria-hidden="true"></span></a>
 
 <div class="row" id="cv-wrapper">
     <div class="col-md-8 col-md-offset-2">
