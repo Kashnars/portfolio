@@ -2363,8 +2363,35 @@ CUSTOM STYLE
 }
 
 #colophon{
-    position: absolute;
+    position: relative;
     bottom: 0;
     left: 0;
     width: 100%;
+}
+
+#cv-wrapper h2{
+    font-size: 50px;
+    display: inline;
+    background: #00ABFF;
+}
+
+#cv-wrapper h4{
+    margin-bottom: 0;
+}
+
+.cv-title{
+    font-size: 40px;
+    background: #293037;
+    color: #00ABFF;
+    text-transform: uppercase;
+}
+
+.plus{
+    font-size: 50px;
+    background: #00ABFF;
+    color: #293037;
+}
+
+.p-30{
+    padding: 0 0 0 30px;
 }
