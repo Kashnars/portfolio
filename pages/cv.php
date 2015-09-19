@@ -80,11 +80,12 @@
             </div>
             <div class="col-md-12">
                 <h3 class="cv-title"><span class="plus">=</span>Concepteur développeur d'applications web et mobiles</h3>
+                <p>
+                    J’ai de l’ambition - Le Web m’apporte, je veux apporter au Web<br>
+                    Nous avons un avenir ensemble
+                </p>
             </div>
-            <p>
-                J’ai de l’ambition - Le Web m’apporte, je veux apporter au Web<br>
-                Nous avons un avenir ensemble
-            </p>
+
         </div>
     </div>
 </div>
