@@ -2390,7 +2390,7 @@ CUSTOM STYLE
     font-size: 50px;
     background: #00ABFF;
     color: #293037;
-    padding: 0 15px;
+    padding: 3px 15px;
     margin-right: 10px;
 }
 
@@ -2400,4 +2400,8 @@ CUSTOM STYLE
 
 #content{
     min-height: 600px;
+}
+.menu-menu-1-container{
+    margin: auto;
+    display: table;
 }
