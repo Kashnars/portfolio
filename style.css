@@ -2395,3 +2395,7 @@ CUSTOM STYLE
 .p-30{
     padding: 0 0 0 30px;
 }
+
+#content{
+    min-height: 600px;
+}
